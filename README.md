@@ -11,7 +11,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kevin--sun.vercel.app-b91c1c?style=for-the-badge&logo=vercel&logoColor=white)](https://kevin-sun.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/via-kevinsun](https://www.linkedin.com/in/kevin-sun-589078301/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sun-589078301/)
+[![YouTube](https://img.shields.io/badge/YouTube-kevinsun__dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kevinsun_dev)
 [![Gmail](https://img.shields.io/badge/Gmail-kevinsalvadordeanianos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsalvadordeanianos@gmail.com)
 
 </div>
