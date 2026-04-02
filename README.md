@@ -10,9 +10,9 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kevin--sun.vercel.app-b91c1c?style=for-the-badge&logo=vercel&logoColor=white)](https://kevin-sun.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/via-kevinsun)
 [![Gmail](https://img.shields.io/badge/Gmail-kevinsalvadordeanianos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinsalvadordeanianos@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Via--KevinSun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Via-KevinSun)
 
 </div>
 
@@ -70,26 +70,25 @@ const kevin = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Via-KevinSun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Via-KevinSun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Via-KevinSun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Via-KevinSun&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Via-KevinSun&theme=tokyonight&hide_border=true&background=0d1117)
+<img src="https://streak-stats.demolab.com?user=Via-KevinSun&theme=tokyonight&hide_border=true&background=0d1117&ring=b91c1c&fire=b91c1c&currStreakLabel=b91c1c" />
 
 </div>
 
-<div align="center">
-
-[![Kevin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Via-KevinSun&theme=tokyo-night&bg_color=0d1117&color=b91c1c&line=7f1d1d&point=faf5f0&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Via-KevinSun&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&bg_color=0d1117)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Via-KevinSun&theme=tokyo-night&bg_color=0d1117&color=b91c1c&line=7f1d1d&point=faf5f0&hide_border=true&area=true" />
 
 </div>
 
